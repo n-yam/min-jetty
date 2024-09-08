@@ -1,4 +1,4 @@
-# min-maven
+# min-jetty
 Docker Container for a Minimal Jetty Setup
 
 ## Version
