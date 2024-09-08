@@ -2,8 +2,8 @@
 Docker Container for a Minimal Jetty Setup
 
 ## Version
-Jetty: 12.0.13
-JDK: 21.0.4 (temurin)
+* Jetty: 12.0.13
+* JDK: 21.0.4 (temurin)
 
 ## Build
 ```
